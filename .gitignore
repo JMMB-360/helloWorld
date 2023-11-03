@@ -1,1 +1,14 @@
-*.class
+# FICHEROS ESPECÍFICOS
+helloWorld.class
+
+# CARPETAS
+/temp/
+
+# FICHEROS CON EXTENSIÓN ESPECÍFICA
+*.log
+
+# FICHEROS CON EXTENSIÓN ESPECÍFICA EN UN DIRECTORIO ESPECÍFICO
+otros/*.pdf
+
+# FICHEROS QUE TIENEN contraseña EN SU NOMBRE
+*contraseña*
